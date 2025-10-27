@@ -1,0 +1,89 @@
+mono:
+  ColorBgStart: "#1f2937"
+  ColorBgEnd: "#111827"
+  ColorWave1Start: "#9ca3af"
+  ColorWave1End: "#6b7280"
+  ColorWave2Start: "#d1d5db"
+  ColorWave2End: "#9ca3af"
+  ColorWave3Start: "#f3f4f6"
+  ColorWave3End: "#d1d5db"
+
+blue:
+  ColorBgStart: "#0c4a6e"
+  ColorBgEnd: "#082f49"
+  ColorWave1Start: "#0ea5e9"
+  ColorWave1End: "#0284c7"
+  ColorWave2Start: "#38bdf8"
+  ColorWave2End: "#0ea5e9"
+  ColorWave3Start: "#7dd3fc"
+  ColorWave3End: "#38bdf8"
+
+blue-pastel:
+  ColorBgStart: "#eff6ff"
+  ColorBgEnd: "#dbeafe"
+  ColorWave1Start: "#93c5fd"
+  ColorWave1End: "#7dd3fc"
+  ColorWave2Start: "#bfdbfe"
+  ColorWave2End: "#93c5fd"
+  ColorWave3Start: "#e0f2fe"
+  ColorWave3End: "#bfdbfe"
+
+red:
+  ColorBgStart: "#7f1d1d"
+  ColorBgEnd: "#450a0a"
+  ColorWave1Start: "#f87171"
+  ColorWave1End: "#dc2626"
+  ColorWave2Start: "#fca5a5"
+  ColorWave2End: "#ef4444"
+  ColorWave3Start: "#fecaca"
+  ColorWave3End: "#f87171"
+
+red-pastel:
+  ColorBgStart: "#fef2f2"
+  ColorBgEnd: "#fee2e2"
+  ColorWave1Start: "#fca5a5"
+  ColorWave1End: "#f87171"
+  ColorWave2Start: "#fecaca"
+  ColorWave2End: "#fca5a5"
+  ColorWave3Start: "#fce7f3"
+  ColorWave3End: "#fecaca"
+
+green:
+  ColorBgStart: "#14532d"
+  ColorBgEnd: "#052e16"
+  ColorWave1Start: "#4ade80"
+  ColorWave1End: "#16a34a"
+  ColorWave2Start: "#86efac"
+  ColorWave2End: "#22c55e"
+  ColorWave3Start: "#bbf7d0"
+  ColorWave3End: "#4ade80"
+
+green-pastel:
+  ColorBgStart: "#f0fdf4"
+  ColorBgEnd: "#dcfce7"
+  ColorWave1Start: "#86efac"
+  ColorWave1End: "#4ade80"
+  ColorWave2Start: "#bbf7d0"
+  ColorWave2End: "#86efac"
+  ColorWave3Start: "#d1fae5"
+  ColorWave3End: "#bbf7d0"
+
+purple:
+  ColorBgStart: "#581c87"
+  ColorBgEnd: "#3b0764"
+  ColorWave1Start: "#c084fc"
+  ColorWave1End: "#9333ea"
+  ColorWave2Start: "#e9d5ff"
+  ColorWave2End: "#a855f7"
+  ColorWave3Start: "#f3e8ff"
+  ColorWave3End: "#c084fc"
+
+purple-pastel:
+  ColorBgStart: "#faf5ff"
+  ColorBgEnd: "#f3e8ff"
+  ColorWave1Start: "#d8b4fe"
+  ColorWave1End: "#c084fc"
+  ColorWave2Start: "#e9d5ff"
+  ColorWave2End: "#d8b4fe"
+  ColorWave3Start: "#f5f3ff"
+  ColorWave3End: "#e9d5ff"

@@ -1,0 +1,14 @@
+{
+  "name": "coversvg",
+  "version": "1.0.0",
+  "description": "SVG cover generator with color variants",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/apply-colors.js",
+    "convert": "node scripts/svg-to-png.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "sharp": "^0.33.0"
+  }
+}

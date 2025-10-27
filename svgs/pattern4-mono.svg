@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="1200" viewBox="0 0 1200 1800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="1800" fill="#f5f5f4"/>
+
+  <!-- Outer frame -->
+  <rect x="100" y="150" width="1000" height="1500"
+        fill="none" stroke="#1f2937" stroke-width="3" opacity="0.9"/>
+
+  <!-- Horizontal line (divider) at top -->
+  <line x1="200" y1="250" x2="1000" y2="250"
+        stroke="#6b7280" stroke-width="2.5" opacity="0.85"/>
+
+  <!-- Small rectangle below the line (title area) -->
+  <rect x="200" y="300" width="800" height="200"
+        fill="none" stroke="#6b7280" stroke-width="2" opacity="0.8"/>
+</svg>

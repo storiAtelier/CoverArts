@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="800" viewBox="0 0 1800 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dcfce7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bbf7d0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1800" height="1200" fill="url(#grad1)"/>
+
+  <!-- Large circle top right -->
+  <circle cx="1350" cy="200" r="250" fill="#86efac" opacity="0.3"/>
+
+  <!-- Triangle bottom left -->
+  <polygon points="0,1200 600,800 0,800" fill="#6ee7b7" opacity="0.5"/>
+
+  <!-- Small circles scattered -->
+  <circle cx="300" cy="350" r="80" fill="#d1fae5" opacity="0.6"/>
+  <circle cx="1500" cy="650" r="120" fill="#4ade80" opacity="0.4"/>
+  <circle cx="450" cy="1000" r="100" fill="#86efac" opacity="0.5"/>
+
+  <!-- Rectangles -->
+  <rect x="1050" y="900" width="600" height="200" fill="#a7f3d0" opacity="0.3" transform="rotate(-15 1350 1000)"/>
+  <rect x="150" y="550" width="250" height="250" fill="#bbf7d0" opacity="0.4" transform="rotate(25 275 675)"/>
+</svg>

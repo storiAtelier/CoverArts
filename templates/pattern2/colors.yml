@@ -1,0 +1,62 @@
+mono:
+  ColorBg: "#0f0f0f"
+  ColorPrimary: "#6b7280"
+  ColorSecondary: "#9ca3af"
+  ColorAccent: "#374151"
+  ColorAccentDark: "#4b5563"
+
+blue:
+  ColorBg: "#0f172a"
+  ColorPrimary: "#3b82f6"
+  ColorSecondary: "#60a5fa"
+  ColorAccent: "#1e40af"
+  ColorAccentDark: "#2563eb"
+
+blue-pastel:
+  ColorBg: "#eff6ff"
+  ColorPrimary: "#93c5fd"
+  ColorSecondary: "#bfdbfe"
+  ColorAccent: "#dbeafe"
+  ColorAccentDark: "#60a5fa"
+
+red:
+  ColorBg: "#1c0f0f"
+  ColorPrimary: "#ef4444"
+  ColorSecondary: "#f87171"
+  ColorAccent: "#b91c1c"
+  ColorAccentDark: "#dc2626"
+
+red-pastel:
+  ColorBg: "#fef2f2"
+  ColorPrimary: "#fca5a5"
+  ColorSecondary: "#fecaca"
+  ColorAccent: "#fee2e2"
+  ColorAccentDark: "#f87171"
+
+green:
+  ColorBg: "#0a1f0f"
+  ColorPrimary: "#22c55e"
+  ColorSecondary: "#4ade80"
+  ColorAccent: "#166534"
+  ColorAccentDark: "#16a34a"
+
+green-pastel:
+  ColorBg: "#f0fdf4"
+  ColorPrimary: "#86efac"
+  ColorSecondary: "#bbf7d0"
+  ColorAccent: "#dcfce7"
+  ColorAccentDark: "#4ade80"
+
+purple:
+  ColorBg: "#1a0f2e"
+  ColorPrimary: "#a855f7"
+  ColorSecondary: "#c084fc"
+  ColorAccent: "#7c3aed"
+  ColorAccentDark: "#9333ea"
+
+purple-pastel:
+  ColorBg: "#faf5ff"
+  ColorPrimary: "#d8b4fe"
+  ColorSecondary: "#e9d5ff"
+  ColorAccent: "#f3e8ff"
+  ColorAccentDark: "#c084fc"

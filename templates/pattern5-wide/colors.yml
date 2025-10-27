@@ -1,0 +1,71 @@
+mono:
+  ColorBg: "#f5f5f4"
+  ColorBook1: "#1f2937"
+  ColorBook2: "#374151"
+  ColorBook3: "#4b5563"
+  ColorBook4: "#6b7280"
+  ColorBook5: "#9ca3af"
+
+blue:
+  ColorBg: "#0f172a"
+  ColorBook1: "#1e3a8a"
+  ColorBook2: "#1e40af"
+  ColorBook3: "#2563eb"
+  ColorBook4: "#3b82f6"
+  ColorBook5: "#60a5fa"
+
+blue-pastel:
+  ColorBg: "#f0f9ff"
+  ColorBook1: "#bfdbfe"
+  ColorBook2: "#93c5fd"
+  ColorBook3: "#60a5fa"
+  ColorBook4: "#7dd3fc"
+  ColorBook5: "#dbeafe"
+
+red:
+  ColorBg: "#1c0f0f"
+  ColorBook1: "#7f1d1d"
+  ColorBook2: "#991b1b"
+  ColorBook3: "#b91c1c"
+  ColorBook4: "#dc2626"
+  ColorBook5: "#ef4444"
+
+red-pastel:
+  ColorBg: "#fff5f5"
+  ColorBook1: "#fecaca"
+  ColorBook2: "#fca5a5"
+  ColorBook3: "#f87171"
+  ColorBook4: "#fbb6ce"
+  ColorBook5: "#fee2e2"
+
+green:
+  ColorBg: "#0a1f0f"
+  ColorBook1: "#14532d"
+  ColorBook2: "#15803d"
+  ColorBook3: "#16a34a"
+  ColorBook4: "#22c55e"
+  ColorBook5: "#4ade80"
+
+green-pastel:
+  ColorBg: "#f0fdf4"
+  ColorBook1: "#bbf7d0"
+  ColorBook2: "#86efac"
+  ColorBook3: "#4ade80"
+  ColorBook4: "#6ee7b7"
+  ColorBook5: "#dcfce7"
+
+purple:
+  ColorBg: "#1a0f2e"
+  ColorBook1: "#581c87"
+  ColorBook2: "#6b21a8"
+  ColorBook3: "#7c3aed"
+  ColorBook4: "#9333ea"
+  ColorBook5: "#a855f7"
+
+purple-pastel:
+  ColorBg: "#faf5ff"
+  ColorBook1: "#e9d5ff"
+  ColorBook2: "#d8b4fe"
+  ColorBook3: "#c084fc"
+  ColorBook4: "#c4b5fd"
+  ColorBook5: "#f3e8ff"

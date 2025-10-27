@@ -1,0 +1,44 @@
+mono:
+  ColorBg: "#f5f5f4"
+  ColorFrameOuter: "#1f2937"
+  ColorFrameInner: "#6b7280"
+
+blue:
+  ColorBg: "#0f172a"
+  ColorFrameOuter: "#3b82f6"
+  ColorFrameInner: "#60a5fa"
+
+blue-pastel:
+  ColorBg: "#eff6ff"
+  ColorFrameOuter: "#93c5fd"
+  ColorFrameInner: "#bfdbfe"
+
+red:
+  ColorBg: "#1c0f0f"
+  ColorFrameOuter: "#ef4444"
+  ColorFrameInner: "#f87171"
+
+red-pastel:
+  ColorBg: "#fef2f2"
+  ColorFrameOuter: "#fca5a5"
+  ColorFrameInner: "#fecaca"
+
+green:
+  ColorBg: "#0a1f0f"
+  ColorFrameOuter: "#22c55e"
+  ColorFrameInner: "#4ade80"
+
+green-pastel:
+  ColorBg: "#f0fdf4"
+  ColorFrameOuter: "#86efac"
+  ColorFrameInner: "#bbf7d0"
+
+purple:
+  ColorBg: "#1a0f2e"
+  ColorFrameOuter: "#a855f7"
+  ColorFrameInner: "#c084fc"
+
+purple-pastel:
+  ColorBg: "#faf5ff"
+  ColorFrameOuter: "#d8b4fe"
+  ColorFrameInner: "#e9d5ff"

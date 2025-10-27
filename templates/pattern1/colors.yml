@@ -1,0 +1,80 @@
+mono:
+  ColorBgStart: "#1f2937"
+  ColorBgEnd: "#6b7280"
+  ColorShape1: "#9ca3af"
+  ColorShape2: "#374151"
+  ColorShape3: "#d1d5db"
+  ColorShape4: "#4b5563"
+  ColorShape5: "#111827"
+
+blue:
+  ColorBgStart: "#1e3a8a"
+  ColorBgEnd: "#3b82f6"
+  ColorShape1: "#60a5fa"
+  ColorShape2: "#1d4ed8"
+  ColorShape3: "#93c5fd"
+  ColorShape4: "#2563eb"
+  ColorShape5: "#1e40af"
+
+blue-pastel:
+  ColorBgStart: "#dbeafe"
+  ColorBgEnd: "#bfdbfe"
+  ColorShape1: "#93c5fd"
+  ColorShape2: "#7dd3fc"
+  ColorShape3: "#e0f2fe"
+  ColorShape4: "#60a5fa"
+  ColorShape5: "#bae6fd"
+
+red:
+  ColorBgStart: "#7f1d1d"
+  ColorBgEnd: "#ef4444"
+  ColorShape1: "#f87171"
+  ColorShape2: "#991b1b"
+  ColorShape3: "#fca5a5"
+  ColorShape4: "#dc2626"
+  ColorShape5: "#b91c1c"
+
+red-pastel:
+  ColorBgStart: "#fee2e2"
+  ColorBgEnd: "#fecaca"
+  ColorShape1: "#fca5a5"
+  ColorShape2: "#fbb6ce"
+  ColorShape3: "#fce7f3"
+  ColorShape4: "#f87171"
+  ColorShape5: "#fbcfe8"
+
+green:
+  ColorBgStart: "#14532d"
+  ColorBgEnd: "#22c55e"
+  ColorShape1: "#4ade80"
+  ColorShape2: "#15803d"
+  ColorShape3: "#86efac"
+  ColorShape4: "#16a34a"
+  ColorShape5: "#166534"
+
+green-pastel:
+  ColorBgStart: "#dcfce7"
+  ColorBgEnd: "#bbf7d0"
+  ColorShape1: "#86efac"
+  ColorShape2: "#6ee7b7"
+  ColorShape3: "#d1fae5"
+  ColorShape4: "#4ade80"
+  ColorShape5: "#a7f3d0"
+
+purple:
+  ColorBgStart: "#581c87"
+  ColorBgEnd: "#a855f7"
+  ColorShape1: "#c084fc"
+  ColorShape2: "#6b21a8"
+  ColorShape3: "#e9d5ff"
+  ColorShape4: "#9333ea"
+  ColorShape5: "#7c3aed"
+
+purple-pastel:
+  ColorBgStart: "#f3e8ff"
+  ColorBgEnd: "#e9d5ff"
+  ColorShape1: "#d8b4fe"
+  ColorShape2: "#c4b5fd"
+  ColorShape3: "#f5f3ff"
+  ColorShape4: "#c084fc"
+  ColorShape5: "#ddd6fe"

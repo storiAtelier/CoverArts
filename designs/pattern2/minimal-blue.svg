@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="1800" fill="#0f172a"/>
+
+  <!-- Top decorative line -->
+  <line x1="100" y1="200" x2="1100" y2="200" stroke="#3b82f6" stroke-width="3"/>
+  <line x1="100" y1="210" x2="600" y2="210" stroke="#60a5fa" stroke-width="2"/>
+
+  <!-- Central text area -->
+  <rect x="150" y="750" width="900" height="300" fill="none" stroke="#1e40af" stroke-width="2" opacity="0.5"/>
+
+  <!-- Decorative elements -->
+  <circle cx="600" cy="400" r="5" fill="#3b82f6"/>
+  <circle cx="600" cy="1400" r="5" fill="#3b82f6"/>
+
+  <!-- Bottom decorative line -->
+  <line x1="100" y1="1600" x2="1100" y2="1600" stroke="#3b82f6" stroke-width="3"/>
+  <line x1="600" y1="1610" x2="1100" y2="1610" stroke="#60a5fa" stroke-width="2"/>
+
+  <!-- Corner accents -->
+  <line x1="100" y1="150" x2="100" y2="250" stroke="#2563eb" stroke-width="4"/>
+  <line x1="50" y1="200" x2="150" y2="200" stroke="#2563eb" stroke-width="4"/>
+
+  <line x1="1100" y1="1550" x2="1100" y2="1650" stroke="#2563eb" stroke-width="4"/>
+  <line x1="1050" y1="1600" x2="1150" y2="1600" stroke="#2563eb" stroke-width="4"/>
+</svg>
