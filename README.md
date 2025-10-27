@@ -2,6 +2,12 @@
 
 本の表紙に使える汎用的なSVG/PNGアートジェネレーター
 
+## 🎨 ギャラリー
+
+**[GitHub Pagesでギャラリーを見る](https://storiAtelier.github.io/CoverArts/)**
+
+すべてのデザインパターンとカラーバリエーションをブラウザで確認・ダウンロードできます。
+
 ## 概要
 
 シンプルで美しい本の表紙デザインを、テンプレートとカラーパターンから自動生成します。
@@ -50,10 +56,26 @@ npm run convert
 
 SVGからPNGが`output/`フォルダに生成されます。
 
+### ギャラリーHTML生成
+
+```bash
+npm run gallery
+```
+
+`index.html`にギャラリーページが生成されます。
+
+### すべてを一度に実行
+
+```bash
+npm run build
+```
+
+SVG生成 → PNG変換 → ギャラリー生成を一度に実行します。
+
 ## ディレクトリ構造
 
 ```
-coversvg/
+CoverArts/
 ├── templates/          # テンプレートファイル
 │   ├── pattern1/
 │   │   ├── base.svg   # 白黒ベーステンプレート
@@ -61,8 +83,27 @@ coversvg/
 │   └── ...
 ├── svgs/              # 生成されたSVG（63個）
 ├── output/            # 生成されたPNG（63個）
-└── scripts/           # ビルドスクリプト
+├── scripts/           # ビルドスクリプト
+│   ├── apply-colors.js       # SVG生成
+│   ├── svg-to-png.js         # PNG変換
+│   └── generate-gallery.js   # ギャラリー生成
+├── index.html         # ギャラリーページ（自動生成）
+└── .github/
+    └── workflows/
+        └── deploy-pages.yml  # GitHub Pages自動デプロイ
 ```
+
+## GitHub Pages デプロイ
+
+このリポジトリは、mainブランチにプッシュすると自動的にGitHub Pagesにデプロイされます。
+
+### 初回設定
+
+1. GitHubリポジトリの Settings → Pages に移動
+2. Source を "GitHub Actions" に設定
+3. mainブランチにプッシュすると自動デプロイが開始されます
+
+デプロイ後、`https://storiAtelier.github.io/CoverArts/` でギャラリーが閲覧できます。
 
 ## カスタマイズ
 
@@ -83,7 +124,7 @@ custom:
 1. `templates/new-pattern/`フォルダを作成
 2. `base.svg`にデザインを作成（プレースホルダーは`{{ParamName}}`形式）
 3. `colors.yml`にカラーパターンを定義
-4. `npm run generate`で生成
+4. `npm run build`で生成
 
 ## 技術スタック
 
@@ -91,7 +132,15 @@ custom:
 - SVG
 - js-yaml
 - sharp (PNG変換)
+- GitHub Actions (自動デプロイ)
+- GitHub Pages (ホスティング)
 
 ## ライセンス
 
-MIT
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+生成されたすべてのデザイン（SVG/PNG）はパブリックドメインです。
+商用・非商用問わず、自由に使用・改変・配布できます。
+クレジット表記は不要です。
+
+https://creativecommons.org/publicdomain/zero/1.0/deed.ja
