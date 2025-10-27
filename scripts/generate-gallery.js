@@ -90,7 +90,7 @@ h += '.close-modal{position:absolute;top:20px;right:40px;color:white;font-size:4
 h += '</style></head><body><div class="container">';
 h += '<header><h1>カバーアートギャラリー</h1>';
 h += '<p class="intro">この画像はCC0（パブリックドメイン）で提供されているので自由に利用ができます。<br>';
-h += 'もしクレジットが必要なら<a href="https://storiatelier.net/" target="_blank">すとりあとりえ</a>にリンクしてね。</p>';
+h += 'もしクレジットが必要なら<a href="https://storiatelier.net/" target="_blank">すとりあとりえ</a>にリンクしてください。</p>';
 h += '</header>';
 h += genSections(portraitPatterns, '📱 縦長デザイン（800×1200）');
 h += genSections(landscapePatterns, '🖼️ 横長デザイン（1200×800）');
